@@ -18,7 +18,7 @@ lib/
  ├── widgets/
  ├── models/
  └── services/
-Installation
+Installations 
 Clone the repo
 Run flutter pub get
 Run flutter run
